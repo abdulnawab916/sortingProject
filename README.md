@@ -1,3 +1,5 @@
+Weston Comment Test
+
 # Employee Sorting Project 
 
 This program essentially sorts employees and their data.
@@ -33,4 +35,3 @@ touch <filename.txt> (without brackets)
 
 * This was formulated with the work from Bryan Krofchock at SCC.
   (Sacramento City College).
-
